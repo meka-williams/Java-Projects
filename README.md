@@ -1,2 +1,2 @@
 # Java-Projects
-All my Java Projects &amp; work
+All my Java Projects &amp; Work
